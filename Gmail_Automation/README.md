@@ -16,14 +16,14 @@ Inputs:
   
 NOTE:
 
-  *Two step verification must be disabled for the senders mail id.
+  ->Two step verification must be disabled for the senders mail id.
   
-  *Allow less secure app settings for the sender mail id must be turned on. you can use the bellow link to go to that settings.
+  ->Allow less secure app settings for the sender mail id must be turned on. you can use the bellow link to go to that settings.
   
-  LINK: https://myaccount.google.com/u/1/lesssecureapps?pli=1&pageId=none
+   LINK: https://myaccount.google.com/u/1/lesssecureapps?pli=1&pageId=none
   
 WARNINGS(After sending mail):
 
-  *Turn off the Allow less secure app settings for Protection.
+  ->Turn off the Allow less secure app settings for Protection.
   
-  *Enable two step verfication.
+  ->Enable two step verfication.
